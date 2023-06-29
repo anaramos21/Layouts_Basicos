@@ -1,0 +1,32 @@
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    height: 200px;
+    padding:10px;
+    border: 5px solid black;
+    font-size: 20px;
+    color: beige;
+    text-align: center;
+    
+  }
+  
+  .coluna-50 {
+    width: 50%;
+    background: blueviolet;
+    outline-style: dotted;
+    outline-color: aliceblue;
+  }
+  
+  .coluna-33 {
+     width: 33.33%;
+     background: blue;
+     outline-style: dotted;
+    outline-color: aliceblue;
+  }
+  
+  .coluna-20 {
+     width: 20%;
+     background-color: aqua;
+     outline-style: dotted;
+    outline-color: aliceblue;
+  }
