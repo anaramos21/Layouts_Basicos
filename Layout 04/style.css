@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding:0;
+    display: block;
+    font-family: cursive;
+    font-size: 30px;
+    color: #000;
+    text-align: center;
+
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    background:darkviolet;
+    float:left;
+}
+
+section{
+    width: 70%;
+    height: 300px;
+    display: block;
+    float:left;
+    background-color:aqua;
+
+}
+
+aside{
+    width: 30%;
+    height: 300px;
+    float:right;
+    background-color: #E0D475;  
+
+}
+
+.parte1{
+    background:#E0D475;
+    height: 200px;
+    width: 33.33%;
+    float:left;
+
+}
+
+.parte2{
+    background:#E05DA1;
+    height: 200px;
+    width: 33.33%;
+    float:left;
+}
+
+.parte3{
+    background:forestgreen;
+    height: 200px;
+    width: 33.33%;
+    float:right;
+
+}
